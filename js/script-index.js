@@ -12,7 +12,7 @@ container.appendChild(circle)
 
 // inseriamo un elemento <p> figlio di .container  
 let par = document.createElement('p')
-par.innerHTML = 'HOVER'
+par.innerHTML = 'OVER'
 par.classList.add('par')
 circle.appendChild(par)
 
