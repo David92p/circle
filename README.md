@@ -4,7 +4,7 @@
 Crea elementi, aggiungi Classi e modifica il Dom tramite l'utilizzo di Js.
 Infine gestisci gli eventi grazie alle funzioni create.
 
-## Crea brevi script per mettere in pratica i tuoi studi
+## Costruisci brevi script per mettere in pratica i tuoi studi
 
 ### Built With
 
